@@ -1,8 +1,6 @@
 # Desafio | Frontend Developer
 
-> **ATENÇÃO:** Antes de começar, se [cadastre na vaga](https://linxneemuchaordic.recruiterbox.com/) via Recruiterbox **=]**
-
-Olá! Seja bem vindo ao teste para a vaga de **Frontend Developer** para o time de **Customer Operations** da Linx Impulse.
+Olá! Seja bem vindo ao teste para a vaga de **Frontend Developer**.
 
 Preparamos um teste que abordará seus conhecimentos em **HTML**, **CSS** e **Javascript**. Você será encaixado na vaga de acordo com seu resultado.
 
@@ -34,22 +32,8 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 
 ---
 
-## Instruções
-
-- Crie um repositório no seu github que irá conter o desenvolvimento do seu desafio.
-- Faça *commits* ao longo do seu desenvolvimento, isso nos ajudará a entender sua linha de raciocínio ;)
-- Faça **README.md** que contenha as informações de *setup* e a descrição do seu projeto;
-- Suba um *live preview* do seu desafio em um dos provedores a seguir, isso nos ajudará a testar sua implementação:
-    - **[Now](https://zeit.co/now)**
-    - **[Heroku](https://www.heroku.com)**
-    - **[Netifly](https://www.netlify.com/)**
-    - Qualquer outro semelhante
-- Assim que concluir o seu desafio, nos envie o **link do seu repositório contendo o resultado do seu desafio** e o link do ***live preview*** para que possamos testá-lo.
-
----
-
 ## Dicas
-> Evite usar frameworks (react, vue, angular, bootstrap)
+> Os únicos frameworks permitidos são: JQuery e Bootstrap.
 
 > Crie uma estrutura de arquivos organizada para suas implementações
 
@@ -59,14 +43,12 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 
 > Documente suas funções e seja o mais conciso possível ao escrever seu código
 
-> Seu README.md deve conter as instruções necessárias para qualquer pessoa fazer seu projeto funcionar
-
 > Your code will be better understood in English ;)
 
 ---
 
 ## Critérios de avaliação
-- Commits significativos
+- Funcionamento dos requisitos da Landing Page.
 
 - Arquitetura e organização do sistema
 
@@ -79,10 +61,8 @@ Assim que obter os dados, você deverá implementar os seguintes pontos:
 ---
 
 ## Não conseguiu fazer tudo?
-A sua forma de priorizar a entrega também vai ser considerada. Escreva no README.md o que você conseguiu e não conseguiu implementar, descrevendo porque você preferiu priorizar desta maneira.
+A sua forma de priorizar a entrega também vai ser considerada. Documente em um arquivo a parte o que você conseguiu e não conseguiu implementar, descrevendo porque você preferiu priorizar desta maneira.
 
 ---
-
-Em caso de dúvidas, [abra uma issue](https://github.com/chaordic/frontend-developer-challenge/issues).
 
 **Boa sorte =]**
